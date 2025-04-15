@@ -7,8 +7,8 @@
 I have a full-stack web bootcamp and I'm majoring in computer science. I'm looking for opportunities and collaboration on projects related to programming and deep learning.
 
 - 🔭 I am currently honing my backend skills.
-- 🌱 I am currently learning Python at university.
-- 🤔 I’m looking for help with Lua
+- 🌱 I was learning Python at university.
+- 🤔 Looking for help with Lua
 
 ### Portfólio
 
