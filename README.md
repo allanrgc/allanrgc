@@ -29,11 +29,11 @@ Produzo também material didático no Medium (links abaixo).
 <details>
   <summary> <h3>Oracle Apex</h3> </summary>
   
-  - [Oracle APEX](https://github.com/allanrgc/Oracle-Apex/blob/main/README)
+  - [Oracle APEX](https://github.com/allanrgc/Oracle-Apex/)
 
-  - [Projeto de formulário (Segurança pública)](https://github.com/allanrgc/Apex-Form-SEMUSB/blob/main/README)
+  - [Projeto de formulário (Segurança pública)](https://github.com/allanrgc/Apex-Form-SEMUSB/)
   
-  - [Projeto de gestão de equipamentos (Patrimônio)](https://github.com/allanrgc/Apex-Pat/edit/main/README)
+  - [Projeto de gestão de equipamentos (Patrimônio)](https://github.com/allanrgc/Apex-Pat/)
   
 </details>
 
