@@ -23,6 +23,20 @@ Produzo também material didático no Medium (links abaixo).
 
 <h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>
 <br>
+
+
+<!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
+<details>
+  <summary> <h3>Oracle Apex</h3> </summary>
+  
+  - [Oracle APEX](https://github.com/allanrgc/Oracle-Apex/blob/main/README.md)
+
+  - [Projeto de formulário (Segurança pública)](https://github.com/allanrgc/Apex-Form-SEMUSB/blob/main/README.md)
+  
+  - [Projeto de gestão de equipamentos (Patrimônio)](https://github.com/allanrgc/Apex-Pat/edit/main/README.md)
+  
+</details>
+
 <!----------------------------------------------- BOTOES DE LINKS --------------------------------------------->
 <hr>
 <div align="center">
@@ -47,21 +61,8 @@ Produzo também material didático no Medium (links abaixo).
 </div>
 <hr>
 
-<!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
-<details>
-  <summary> <h3>Oracle Apex</h3> </summary>
-  
-  - [Oracle APEX](https://github.com/allanrgc/Oracle-Apex/blob/main/README.md)
-
-  - [Projeto de formulário (Segurança pública)](https://github.com/allanrgc/Apex-Form-SEMUSB/blob/main/README.md)
-  
-  - [Projeto de gestão de equipamentos (Patrimônio)](https://github.com/allanrgc/Apex-Pat/edit/main/README.md)
-  
-</details>
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=allanrgc) -->
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=allanrgc)
-
-
-- 📫 How to reach me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allanrgc/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allanrgc/)
+<!-- - 📫 How to reach me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allanrgc/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allanrgc/) -->
