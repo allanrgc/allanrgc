@@ -4,11 +4,11 @@
 
 
 ### 👋 How you doin' 😄
-I have a full-stack web bootcamp and I'm majoring in computer science. I'm looking for opportunities and collaboration on projects related to programming and deep learning.
+I have a full-stack web bootcamp and I have a degree in Technology. I'm looking for opportunities and collaboration on projects related to programming and deep learning.
 
 - 🔭 I am currently honing my backend skills.
 - 🌱 I was learning Python at university.
-- 🤔 Looking for help with Lua
+- 🤔 Looking for help with Lua for curiosity
 
 ### Portfólio
 
